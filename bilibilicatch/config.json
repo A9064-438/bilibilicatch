@@ -1,0 +1,7 @@
+﻿{
+    "output":  "D:\\bilibilicatch\\download",
+    "defaultCodec":  "HEVC（更小体积）",
+    "defaultQuality":  "1080p 60fps（默认）",
+    "cookieFile":  "D:\\EdgeDownload\\www.bilibili.com_cookies.txt",
+    "cookieMode":  "file"
+}
